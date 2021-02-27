@@ -1,3 +1,3 @@
 # Demo
 
-What the project is about, context, description etc...
+What the project is about, context, description etc
